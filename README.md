@@ -7,6 +7,9 @@ you will be able to specify height, length, and width of what you will like to m
 
 this is my first project, so all every line of code made in this repository is not reflective of my current skill and ability
 
+<<<<<<< HEAD
 Texture packs are not supported and are unlikely to recieve it due to how the project is coded.
 
+=======
+>>>>>>> 8c141ca43adfad7f9e439d6e51d573df55a23a46
 Dedicated to the man who sold the world
