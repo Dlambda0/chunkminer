@@ -1,5 +1,7 @@
 import pyautogui
+import cv2 as cv
 
+#used to determine what tool for the job
 class item:
     def __init__(self, quality, tool):
         self.quality = quality
@@ -13,4 +15,5 @@ def chunksize():
 def toolpicker():
     pass
 
-def m
+def autominer():
+    pass
